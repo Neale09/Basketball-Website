@@ -1,0 +1,6 @@
+{
+  "name": "AEROCOURT Basketball & Footwear",
+  "description": "Official basketball footwear and equipment store featuring high-traction basketball shoes, tournament balls, apparel, and court gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
